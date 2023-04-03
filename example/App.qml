@@ -1,9 +1,9 @@
-﻿import QtQuick
-import QtQuick.Window
-import QtQuick.Controls
-import QtQuick.Layouts
-import QtMultimedia
-import FluentUI
+﻿import QtQuick 2.15
+import QtQuick.Window 2.15
+import QtQuick.Controls 2.15
+import QtQuick.Layouts 2.15
+import QtMultimedia 5.15
+import FluentUI 1.0
 
 Window {
     id:app

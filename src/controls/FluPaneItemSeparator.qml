@@ -1,4 +1,4 @@
-﻿import QtQuick
+﻿import QtQuick 2.15
 
 QtObject {
     readonly property int flag : 2
