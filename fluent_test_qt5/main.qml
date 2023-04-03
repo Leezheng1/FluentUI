@@ -11,9 +11,16 @@ Window {
 
 
     FluButton {
+        id:flubtn
         width: 100
         height: 50
 
     }
 
+    FluTextButton {
+        width: 100
+        height: 50
+        text: 'Hello world1'
+        anchors.top: flubtn.bottom
+    }
 }
